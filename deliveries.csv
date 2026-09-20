@@ -1,0 +1,42 @@
+id,area,priority,weight_kg
+1,Nasr City,2,4.5
+2,Maadi,1,2.0
+3,Nasr City,3,1.2
+4,Zamalek,1,7.0
+5,Maadi,2,3.5
+6,Nasr City,1,3.0
+7,Maadi,1,2.5
+8,Zamalek,3,1.5
+9,Nasr City,2,2.0
+10,Maadi,3,4.0
+11,Zamalek,2,6.0
+12,Nasr City,4,9.0
+13,Maadi,2,1.5
+14,Zamalek,1,2.5
+15,Nasr City,3,5.0
+16,Maadi,4,10.0
+17,Zamalek,2,10.5
+18,Nasr City,3,12.0
+19,Maadi,5,0.0
+20,Zamalek,5,-3.0
+21,,2,4.0
+22,   ,1,2.0
+23,Nasr City,1,1.0
+24,Nasr City,1,1.0
+25,Nasr City,1,1.0
+26,Nasr City,1,1.0
+27,Nasr City,1,1.0
+28,Nasr City,1,1.0
+29,Nasr City,1,1.0
+30,Nasr City,1,1.0
+31,Nasr City,1,1.0
+32,Nasr City,1,1.0
+33,Nasr City,1,1.0
+34,Nasr City,1,1.0
+35,Maadi,1,2.5
+36,Maadi,1,2.5
+37,Maadi,1,2.5
+38,Maadi,1,2.5
+39,Zamalek,2,3.3
+40,Zamalek,2,3.3
+41,Zamalek,2,3.3
